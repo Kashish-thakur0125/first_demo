@@ -1,3 +1,3 @@
 # first_demo
-this is my first git repository.
-author-kashish thakur
+this is my first git  repository.  <br>
+author-kashish thakur(student)
